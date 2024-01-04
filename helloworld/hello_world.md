@@ -655,7 +655,7 @@ pip install -U huggingface_hub
 然后新建 python 文件，填入以下代码，运行即可。
 
 - resume-download：断点续下
-- local-dir：本地存储路径。（linux 环境下需要填写绝对路径）
+- local-dir：本地存储路径。（windows 环境下需要填写绝对路径）
 
 ```python
 import os
